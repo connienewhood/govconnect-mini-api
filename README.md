@@ -1,6 +1,6 @@
 # GovConnect Mini API Demo
 
-This project simulates a government service integration, inspired by the PayIt platform. It demonstrates basic resident record management and payment processing using:
+This project simulates a government service integration, inspired by the government related platforms. It demonstrates basic resident record management and payment processing using:
 
 - ✅ Java 17
 - ✅ Spring Boot
